@@ -58,7 +58,7 @@ button:hover {
 
 .container {
   padding: 1rem;
-  width: stretch;
+  width: 100%; 
   height: auto;
   display: none;
   background: #515DA2;
